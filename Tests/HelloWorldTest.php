@@ -1,4 +1,5 @@
 <?php
+
 // use the following namespace
 use PHPUnit\Framework\TestCase;
 
